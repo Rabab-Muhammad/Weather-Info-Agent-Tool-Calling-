@@ -1,6 +1,5 @@
 # 🌦️ Weather Info Agent - Assignment 4
-
-This project is part of **Agentic AI (GIAIC)** assignments.  
+  
 The goal is to build an **AI agent** that can provide **(mocked) weather information** for different cities using a tool.
 
 ---
@@ -60,3 +59,4 @@ If a city is not found, the response will be:
 ```arduino
 Weather data not available ❌
 ```
+
